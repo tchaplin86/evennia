@@ -50,3 +50,5 @@ twistd.bat
 
 # never commit docs/build
 docs/build
+
+pip-wheel-metadata/
